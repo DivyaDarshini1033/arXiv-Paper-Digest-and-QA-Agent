@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langgraph
+arxiv
+pymupdf
+chromadb
+langchain-chroma
+langchain-text-splitters
+python-dotenv
+pydantic
+rich
